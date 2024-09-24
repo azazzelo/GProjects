@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GProjects</string>
+    <string name="title">Название проекта</string>
+    <string name="description">Описание проекта</string>
+</resources>
